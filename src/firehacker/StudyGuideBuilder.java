@@ -7,12 +7,6 @@ import java.io.*;
 import java.util.*;
 import javax.swing.JOptionPane;
 
-/**
- * Concepts demonstrated:
- * Iterations (2)
- * 
- * @author LukeRobbins2112
- */
 
 public class StudyGuideBuilder {
     
