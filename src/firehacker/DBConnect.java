@@ -7,13 +7,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.sql.ResultSet;
 
-/**
- * Concepts demonstrated:
- * iteration (1)
- * 
- * @author LukeRobbins2112
- */
-
 
 public class DBConnect {
     
