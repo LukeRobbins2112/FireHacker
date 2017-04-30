@@ -5,21 +5,6 @@ package firehacker;
 
 import java.util.*;
 
-/**
- * Concepts demonstrated: 
- * Conditionals (1)
- * iterations (2)
- * user-defined methods (including accessors/mutators), 
- * user-defined methods that pass arguments (3), 
- * user-defined methods that return a value (3),
- * user-defined method that returns an ArrayList (1)
- * user-defined method that returns an object
- * constructor
- * Enums (LetterGrade)
- * Using ArrayList (1)
- * 
- * @author LukeRobbins2112
- */
 
 public class GradeBook {
     
