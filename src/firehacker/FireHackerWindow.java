@@ -9,27 +9,6 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 
-/**
- * Concepts demonstrated:
- * Variables
- * Conditionals (6)
- * Iteration (1)
- * File I/O
- * User-defined methods that pass arguments
- * User-defined methods that return a value
- * Storing application's data in file (and database)
- * Allow user to specify file written to
- * Allow user to write to existing file
- * Using ArrayList(1)
- * this reference variable
- * String methods (5)
- * Wrapper classes (use Integer several times)
- * Aggregation (using GradeBook and StudyGuideBuilder classes)
- * 
- * @author LukeRobbins2112
- * 
- */
-
 public class FireHackerWindow extends javax.swing.JFrame {
     
     Connection con;
